@@ -99,7 +99,7 @@ nav a:first-child {
     padding: 30px;
     margin: 0 0 40px 0;
     width: 100%;
-    max-width: 650px;
+    max-width: 900px;
     float: left;
     border: 1px solid #ddd;
 }
@@ -159,6 +159,7 @@ footer {
 
 #contact-form ul {
     margin-bottom: 20px;
+    
 }
 
 #contact-form li {
@@ -171,6 +172,7 @@ input[type=email],
 textarea {
     display: block;
     widows: 100%;
+    width: 100%;
 }
 
 input[type=text],
